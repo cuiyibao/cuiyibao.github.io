@@ -3,3 +3,7 @@
 ### 第一版流程
 
 ![Image text](./image/login_v1.jpg)
+
+### 第二版流程
+
+![Image text](./image/login_v2.jpg)
