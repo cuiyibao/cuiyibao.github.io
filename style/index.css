@@ -1,0 +1,13 @@
+.index-wrapper {
+  background: url('../image/index/back2.jpeg') no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.title {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  margin: 0;
+  color: #fff;
+}
